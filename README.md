@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![2023-11-21_11-02-19](https://github.com/sabundhal/SkyKart-web-application/assets/125143166/9e4044d5-9d92-4424-b5b5-51c643fc00df)
+
 ## Getting Started
 
 First, run the development server:
